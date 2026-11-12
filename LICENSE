@@ -1,0 +1,9 @@
+This repository contains an original LIN/C11 experimental clone of a published
+scalar algorithm from Aave V3 (aave/aave-v3-core). The upstream Solidity is
+NOT vendored here.
+
+Upstream algorithm license: MIT after BUSL Change Date 2023-01-27.
+See https://github.com/aave/aave-v3-core
+
+The LIN source and C11 oracle in this repository are provided for audit
+reproduction. Proofs live in https://github.com/kbelludoo/lin-open
